@@ -17,7 +17,9 @@ all coronaviruses to let us back to GA and misk classes :(
 
 
 # technologies used
-canvas technique : it is allow us to draw and animation every elements easily, adding voices and intraction with JS.
+-HTML --> canvas technique : it is allow us to draw and animation every elements easily, adding voices and intraction with JS.
+- CSS
+- JS
 
 # development process Difficulties and problem-solving strategy
 - finding free corona virus icons cause it is new :)!
