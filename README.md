@@ -5,6 +5,7 @@ it is a snake game let snake to kill random viruses shown on infected places on 
 all coronaviruses to let us back to GA and misk classes :(
 
 # frameworks
+![draw](images/draw.jpeg)
 # start game page:
 ![start page](images/start-page.png)
 # game page:
